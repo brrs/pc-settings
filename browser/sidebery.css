@@ -2,8 +2,5 @@
 #root.root {--toolbar-bg: var(--frame-bg);}
 #root.root {--ntb-padding: 2px;}
 #root.root {--nav-btn-border-radius: 4px;}
-
 #root.root {--general-margin: 8px;}
 #root.root {--general-border-radius: 8px;}
-
-#root {border-radius: 15px;}
