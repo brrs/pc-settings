@@ -11,3 +11,22 @@ window {
 browser#webext-panels-browser {
     border-radius: 15px;
 }
+
+
+/* without Sidebery, native vertical tabs*/
+#sidebar-tools-and-extensions-splitter {
+  display: none !important;
+}
+
+.buttons-wrapper {
+  display: none !important;
+}
+
+#urlbar {
+  width: 50% !important;
+}
+
+#urlbar-container {
+  display: flex !important;
+  justify-content: center !important;
+}
