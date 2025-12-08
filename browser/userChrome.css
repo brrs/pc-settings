@@ -40,3 +40,12 @@ browser#webext-panels-browser {
   margin: 1px !important;
   background: rgba(0, 0, 0, 0.2) !important;
 }
+
+#star-button-box {
+  display: none !important;
+}
+
+.tab-background {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
