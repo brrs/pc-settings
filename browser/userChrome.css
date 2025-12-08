@@ -34,3 +34,9 @@ browser#webext-panels-browser {
 #tabbrowser-arrowscrollbox-periphery {
   align-self: center !important;
 }
+
+#sidebar-main {
+  border-radius: 15px !important;
+  margin: 1px !important;
+  background: rgba(0, 0, 0, 0.2) !important;
+}
