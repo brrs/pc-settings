@@ -4,3 +4,4 @@
 4. Media Controls
 5. Primary Input on LockScreen
 6. Touchpad Gesture Customization
+7. Wallpaper Slideshow
