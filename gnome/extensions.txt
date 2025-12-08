@@ -1,0 +1,6 @@
+1. Activate Gnome
+2. Activities Icon & Label
+3. Dash to Panel
+4. Media Controls
+5. Primary Input on LockScreen
+6. Touchpad Gesture Customization
