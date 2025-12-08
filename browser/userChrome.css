@@ -12,7 +12,6 @@ browser#webext-panels-browser {
     border-radius: 15px;
 }
 
-
 /* without Sidebery, native vertical tabs*/
 #sidebar-tools-and-extensions-splitter {
   display: none !important;
@@ -23,16 +22,17 @@ browser#webext-panels-browser {
 }
 
 #urlbar {
-  width: 50% !important;
+  width: 40% !important;
 }
 
 #urlbar-container {
   display: flex !important;
   justify-content: center !important;
+  padding-right: 20px !important;
 }
 
 #tabbrowser-arrowscrollbox-periphery {
-  align-self: center !important;
+  align-self: center;
 }
 
 #sidebar-main {
@@ -52,4 +52,8 @@ browser#webext-panels-browser {
 
 scrollbox {
   padding-top: 15px !important;
+}
+
+#back-button {
+  margin-left: 20px !important;
 }
