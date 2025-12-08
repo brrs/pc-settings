@@ -30,3 +30,7 @@ browser#webext-panels-browser {
   display: flex !important;
   justify-content: center !important;
 }
+
+#tabbrowser-arrowscrollbox-periphery {
+  align-self: center !important;
+}
