@@ -49,3 +49,7 @@ browser#webext-panels-browser {
   margin-top: 0px !important;
   margin-bottom: 0px !important;
 }
+
+scrollbox {
+  padding-top: 15px !important;
+}
