@@ -5,3 +5,5 @@
 5. Primary Input on LockScreen
 6. Touchpad Gesture Customization
 7. Wallpaper Slideshow
+8. Blur my Shell
+9. Lock screen background
